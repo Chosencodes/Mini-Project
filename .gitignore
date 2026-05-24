@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 CIFAR-10/Data/
 *.tar.gz
+Data/
+*.tar.gz
