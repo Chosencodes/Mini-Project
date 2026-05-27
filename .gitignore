@@ -3,3 +3,5 @@ CIFAR-10/Data/
 *.tar.gz
 Data/
 *.tar.gz
+CIFAR-10/Data/
+*.tar.gz
